@@ -1,0 +1,6 @@
+{
+  "name": "Análise de Projeção de Ações",
+  "description": "Software interativo para analisar e projetar o valor de ações com base no modelo financeiro de EPS, Forward P/E e CAGR, integrando preços em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
